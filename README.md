@@ -1,5 +1,5 @@
 # Tank Game
 this is a tank game with particle physics?
 
-## Branches 🌴
-This repository uses the Git Flow workflow.
+## Version Control 🗃
+This repository uses the Git Flow workflow and LFS.
